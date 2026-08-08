@@ -72,7 +72,7 @@ function HomePage() {
           <span className="cursor"></span>
         </p>
         <a
-          href="/Moukthika_s_Resume.pdf"
+          href="/Moukthika_Nellutla_Resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="resume-cloud"
